@@ -1,5 +1,5 @@
 # ECE222-Digital-Computers
-Implemented using RISC-V ISA
+Using RISC-V ISA, Labs about Subroutines, I/O, and Interrupts
 
 ## Labs
 
